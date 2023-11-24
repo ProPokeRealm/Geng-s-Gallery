@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+Geng's Gallery
+</title>
+<link rel="shortcut icon" type="x-icon" href="gyaa.jpg">
+</head>
+<body style="background-color:gray;">
+<center>
+<h1 style="font-family:verdana;">Gallery</h1>
+<p>Scroll down.
+</p>
+</center>
+<center>
+<img src="gyaa.jpg"width="500"height"100" title="Sir Alveen's Sin"> <img src="half-geng.jpg"width="699"height"665" title="Mga Skill issue"> 
+<img src="Humn.jpg"width="500"height"100" title="Me hungry, want eat"> <img src="Like.jpg"width="500"height="665" title="I like Sean Santos"> 
+<img src="Picture.jpg"width="500"height"665" title="HOTDOGS!!!!!"> <img src="Sibro.jpg" width="500" height="665" title="GUSTO KO NA MAG KA-JOWA!!">
+<img src="Sissy.jpg" width="500" height="665" title="GALIT SI MADAME">
+</center>
+</body>
+</html>
